@@ -42,6 +42,5 @@ The Image Generator App is a web application that allows users to generate image
 ## Contributions
 Contributions, issues, and feature requests are welcome. Feel free to check the [issues page](https://github.com/your-username/image-generator-app/issues) if you want to contribute.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+
 
